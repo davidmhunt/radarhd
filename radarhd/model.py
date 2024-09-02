@@ -5,7 +5,7 @@
 import torch.nn as nn
 import torch
 
-from train_test_utils.unet_parts import *
+from radarhd.unet_parts import *
 
 
 class UNet1(nn.Module):
